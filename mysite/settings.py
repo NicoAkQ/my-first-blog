@@ -25,7 +25,7 @@ SECRET_KEY = 'i$z0p5(uigbzxnqu21p$d9z+^_q*+2)kx=ki&090b6$s%-rj(k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["nicoakq.pythonanywhere.com"]
+ALLOWED_HOSTS = ["nicoakq.pythonanywhere.com","127.0.0.1"]
 
 
 # Application definition
